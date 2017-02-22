@@ -1,4 +1,4 @@
-## Welcome to LW Privacy Policy
+## Welcome to Local Warfare(com.buproduct.localwarfareportable) Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -15,7 +15,8 @@ We collect information from you when you register on our site or enter informati
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-      • To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+      • To personalize your experience and to allow us to deliver 
+      the type of content and product offerings in which you are most interested.
 
 ### How do we protect your information?
 
@@ -98,7 +99,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 ### To be in accordance with CANSPAM, we agree to the following:
       • Not use false or misleading subjects or email addresses.
 
-### If at any time you would like to unsubscribe from receiving future emails, you can email us at
+### If at any time you would like to unsubscribe from receiving future emails, you can email us at ian121362@gmail.com
 and we will promptly remove you from ALL correspondence.
 
 
@@ -106,8 +107,5 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-com.BUProduct.LocalWarfarePortable
-No.1-3, Aly. 75, Ln. 647, Sec. 6, Zhonghua Rd., Xiangshan Dist., Hsinchu City 300, Taiwan
-Hsinchu, Taiwan 30095
-Taiwan
-ian121362@gmail.com
+Email: ian121362@gmail.com
+Cell: +886922553672
