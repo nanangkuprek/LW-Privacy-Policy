@@ -16,7 +16,7 @@ We collect information from you when you register on our site or enter informati
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
       • To personalize your experience and to allow us to deliver 
-      the type of content and product offerings in which you are most interested.
+        the type of content and product offerings in which you are most interested.
 
 ### How do we protect your information?
 
@@ -99,8 +99,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 ### To be in accordance with CANSPAM, we agree to the following:
       • Not use false or misleading subjects or email addresses.
 
-### If at any time you would like to unsubscribe from receiving future emails, you can email us at ian121362@gmail.com
-and we will promptly remove you from ALL correspondence.
+### If at any time you would like to unsubscribe from receiving future emails, you can email us at ian121362@gmail.com and we will promptly remove you from ALL correspondence.
 
 
 ### Contacting Us
