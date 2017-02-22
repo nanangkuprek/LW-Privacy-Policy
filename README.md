@@ -106,5 +106,5 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Email: ian121362@gmail.com
+Email: ian121362@gmail.com   
 Cell: +886922553672
