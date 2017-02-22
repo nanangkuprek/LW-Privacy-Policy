@@ -99,7 +99,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 ### To be in accordance with CANSPAM, we agree to the following:
       • Not use false or misleading subjects or email addresses.
 
-### If at any time you would like to unsubscribe from receiving future emails, you can email us at ian121362@gmail.com and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at ian121362@gmail.com and we will promptly remove you from ALL correspondence.
 
 
 ### Contacting Us
